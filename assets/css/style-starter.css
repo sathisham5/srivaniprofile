@@ -9600,20 +9600,21 @@ textarea {
   margin-left: auto; }
 
 @media (min-width: 576px) {
-  .container {
+  .container,.contact-info-c {
     max-width: 540px; } }
 
 @media (min-width: 768px) {
-  .container {
+  .container,.contact-info-c {
     max-width: 720px; } }
 
 @media (min-width: 992px) {
-  .container {
+  .container,.contact-info-c {
     max-width: 960px; } }
 
 @media (min-width: 1200px) {
-  .container {
+  .container,.contact-info-c {
     max-width: 1140px; } }
+  
 
 .container-fluid, .container-sm, .container-md, .container-lg, .container-xl,
 .container-sm,
@@ -10666,7 +10667,7 @@ h3.global-white {
   opacity: 1; }
 
 .w3l-gallery2 .js-img-viwer .content-overlay {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.8);
   position: absolute;
   height: 100%;
   width: 100%;
