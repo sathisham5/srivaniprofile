@@ -9830,7 +9830,7 @@ h3.global-white {
   font-size: 22px;
   font-weight: 600;
   color: #000000;
-  border-bottom: 3px solid var(--primary-color);
+  /* border-bottom: 3px solid var(--primary-color); */
   display: inline-block;
   line-height: 1; }
 
